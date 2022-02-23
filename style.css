@@ -1,0 +1,53 @@
+body{
+    color: red;
+    width: 100vw;
+    height: 100vw;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#container {
+    background: rgb(187, 15, 9);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+   font-family: 'Libre Baskerville', serif;
+}
+
+form{
+    background: rgb(130, 6, 134);
+    width: 50%;
+    font-family: 'Libre Baskerville', serif;
+    padding: 20px 20px 20px 20px;
+    border-radius: 7px;
+}
+
+h1{
+    color: gold;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.form-group{
+    width: 500px;
+    height: 25px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.sharp{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-top: 10px;
+    height: 30px;
+    width: 200px;
+    background: yellowgreen;
+    border-radius: 3px;
+
+}
